@@ -1,23 +1,9 @@
-# Basic "About page" 
+# Общая информация
 
-This is an example for basic documenation project.
-It contains simple structure with couple of pages (this page, another page) and nested sub-section. 
+## Наименование системы
 
-Diplodoc provides you with unique name how this project can be reached on https://diplodoc.com like 
-"https://common---gh-aje0e4eg9hffg001r5e5.viewer.diplodoc.com/en/" 
+ГРАД Web.
 
-If you would like to extend your project - please refer to [YFM Project Organization guide](https://diplodoc.com/docs/en/project/)
+## Назначение системы
 
-All changes for this project can be done within you public github repository called "diplodoc-example/docs". 
-To make changes and apply them: 
-
-- go to your repo under "diplodoc-example/docs" 
-- make changes for project structure or content
-- commit & push into your repository 
-- go to "Actions" tab for docs repository 
-- run "Release" action and wait till completion 
-- done, updates should be available for everyone. 
-
-
-In case if you would like to make proxy from your own domain to this Documentation - please [Contact Us](https://diplodoc.com/#contact) - we will support you accordingly till appropriate documentation creation. 
-
+Инструмент ГРАД Wеb предназначен для создания, оптимизации и оценки бизнес -кейсов новых опций и базовой добычи, выбора площадных систем разработки, оптимизации размещения и параметров работы эксплуатационного фонда, подбора кандидатов и оценки эффективности геолого-технических мероприятий на скважинах и интеграции инструментов. ГРАД Web представляет собой интеграционную платформу, основанную на разработанной онтологической модели данных со строгими логическими принципах хранения информации об объектах, используемых в задачах геологии, разработки месторождений и мониторинга добычи. Архитектура приложения позволяет разрабатывать и подключать плагины сторонних разработчиков.
