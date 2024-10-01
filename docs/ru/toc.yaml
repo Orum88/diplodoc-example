@@ -3,3 +3,5 @@ href: index.yaml
 items: 
   - name: О системе
     href: about.md
+  - name: Начало работы
+    href: start.md
